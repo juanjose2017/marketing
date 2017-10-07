@@ -1,0 +1,25 @@
+{
+  "name": "pagina_temas",
+  "version": "1.0.0",
+  "description": "aaaaa",
+  "main": "gulpfile",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "mi repo"
+  },
+  "keywords": [
+    "nada"
+  ],
+  "author": "Juan Gamboa",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  },
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "materialize-css": "^0.100.2"
+  }
+}
